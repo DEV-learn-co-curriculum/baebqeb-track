@@ -15,3 +15,6 @@ track:
     -   title: foo
         uuid: c70404c4-169b-412d-8416-ae773c80a4aa
         units: []
+    -   title: bar
+        uuid: 8c3287f8-ed92-4b3c-a756-6c6504cfaf56
+        units: []
